@@ -11,8 +11,8 @@ In this chapter, we're going to achieve these targets:
 
 > NOTE:
 > 
-> This chapter base on before `02-EC2Instance-SecurityGroup`
-> So, I copy relevant files from that. Here only add some new files related to application load balancer
+> This chapter base on early `02-EC2Instance-SecurityGroup` one.
+> So, I just copy relevant files from that and here only add some new updated files related to application load balancer
 
 ## Stage-01: Create Security group
 > Define related security group for load balancer
