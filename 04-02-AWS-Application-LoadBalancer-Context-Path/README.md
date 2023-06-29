@@ -11,9 +11,9 @@ In this chapter, we're going to achieve these targets:
 - buy a domain name and host it in AWS Route53 service. I will take `galaxy-aws.top` as example in this case
 
 > NOTE:
->
-> This chapter base on before `04-01-AWS-Application-LoadBalancer-Basic`. 
-> So, I copy relevant files from that. only show related change or function for this chapter and won't present replicated content at before chapter in here.
+> This chapter base on early `04-01-AWS-Application-LoadBalancer-Basic`.
+> So, I copy relevant files from that. only show new updated change or function and won't present replicated content in early chapter.
+
 
 ## Stage-01: Create Security group
 > Create security group which is capable `https` protocol
